@@ -140,7 +140,7 @@ static bool installSignalHandler(void)
 
     if (g_signalStack.ss_size == 0) {
         TTSDKLOG_DEBUG("Allocating signal stack area.");
-        g_signalStack.ss_size = SIGSTTTSDKZ;
+        g_signalStack.ss_size = SIGSTKSZ;
         g_signalStack.ss_sp = malloc(g_signalStack.ss_size);
     }
 
