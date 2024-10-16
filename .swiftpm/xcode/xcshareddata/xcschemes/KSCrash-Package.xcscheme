@@ -118,9 +118,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "KSCrashCoreTests"
-               BuildableName = "KSCrashCoreTests"
-               BlueprintName = "KSCrashCoreTests"
+               BlueprintIdentifier = "TTSDKCrashCoreTests"
+               BuildableName = "TTSDKCrashCoreTests"
+               BlueprintName = "TTSDKCrashCoreTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
@@ -128,14 +128,14 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "KSCrashFiltersTests"
-               BuildableName = "KSCrashFiltersTests"
-               BlueprintName = "KSCrashFiltersTests"
+               BlueprintIdentifier = "TTSDKCrashFiltersTests"
+               BuildableName = "TTSDKCrashFiltersTests"
+               BlueprintName = "TTSDKCrashFiltersTests"
                ReferencedContainer = "container:">
             </BuildableReference>
             <SkippedTests>
                <Test
-                  Identifier = "KSCrashReportFilterAlert_Tests">
+                  Identifier = "TTSDKCrashReportFilterAlert_Tests">
                </Test>
             </SkippedTests>
          </TestableReference>
@@ -143,9 +143,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "KSCrashInstallationsTests"
-               BuildableName = "KSCrashInstallationsTests"
-               BlueprintName = "KSCrashInstallationsTests"
+               BlueprintIdentifier = "TTSDKCrashInstallationsTests"
+               BuildableName = "TTSDKCrashInstallationsTests"
+               BlueprintName = "TTSDKCrashInstallationsTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
@@ -153,23 +153,23 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "KSCrashRecordingCoreTests"
-               BuildableName = "KSCrashRecordingCoreTests"
-               BlueprintName = "KSCrashRecordingCoreTests"
+               BlueprintIdentifier = "TTSDKCrashRecordingCoreTests"
+               BuildableName = "TTSDKCrashRecordingCoreTests"
+               BlueprintName = "TTSDKCrashRecordingCoreTests"
                ReferencedContainer = "container:">
             </BuildableReference>
             <SkippedTests>
                <Test
-                  Identifier = "KSDebug_Tests">
+                  Identifier = "TTSDKDebug_Tests">
                </Test>
                <Test
-                  Identifier = "KSObjC_Tests/testDateDescription">
+                  Identifier = "TTSDKObjC_Tests/testDateDescription">
                </Test>
                <Test
-                  Identifier = "KSObjC_Tests/testDateIsValid">
+                  Identifier = "TTSDKObjC_Tests/testDateIsValid">
                </Test>
                <Test
-                  Identifier = "KSObjC_Tests/testGetDateContents">
+                  Identifier = "TTSDKObjC_Tests/testGetDateContents">
                </Test>
             </SkippedTests>
          </TestableReference>
@@ -177,14 +177,14 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "KSCrashRecordingTests"
-               BuildableName = "KSCrashRecordingTests"
-               BlueprintName = "KSCrashRecordingTests"
+               BlueprintIdentifier = "TTSDKCrashRecordingTests"
+               BuildableName = "TTSDKCrashRecordingTests"
+               BlueprintName = "TTSDKCrashRecordingTests"
                ReferencedContainer = "container:">
             </BuildableReference>
             <SkippedTests>
                <Test
-                  Identifier = "KSCrashMonitor_AppState_Tests">
+                  Identifier = "TTSDKCrashMonitor_AppState_Tests">
                </Test>
             </SkippedTests>
          </TestableReference>
@@ -192,9 +192,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "KSCrashReportingCoreTests"
-               BuildableName = "KSCrashReportingCoreTests"
-               BlueprintName = "KSCrashReportingCoreTests"
+               BlueprintIdentifier = "TTSDKCrashReportingCoreTests"
+               BuildableName = "TTSDKCrashReportingCoreTests"
+               BlueprintName = "TTSDKCrashReportingCoreTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
@@ -202,9 +202,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "KSCrashBootTimeMonitorTests"
-               BuildableName = "KSCrashBootTimeMonitorTests"
-               BlueprintName = "KSCrashBootTimeMonitorTests"
+               BlueprintIdentifier = "TTSDKCrashBootTimeMonitorTests"
+               BuildableName = "TTSDKCrashBootTimeMonitorTests"
+               BlueprintName = "TTSDKCrashBootTimeMonitorTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
@@ -212,9 +212,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "KSCrashDiscSpaceMonitorTests"
-               BuildableName = "KSCrashDiscSpaceMonitorTests"
-               BlueprintName = "KSCrashDiscSpaceMonitorTests"
+               BlueprintIdentifier = "TTSDKCrashDiscSpaceMonitorTests"
+               BuildableName = "TTSDKCrashDiscSpaceMonitorTests"
+               BlueprintName = "TTSDKCrashDiscSpaceMonitorTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
@@ -222,9 +222,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "KSCrashDemangleFilterTests"
-               BuildableName = "KSCrashDemangleFilterTests"
-               BlueprintName = "KSCrashDemangleFilterTests"
+               BlueprintIdentifier = "TTSDKCrashDemangleFilterTests"
+               BuildableName = "TTSDKCrashDemangleFilterTests"
+               BlueprintName = "TTSDKCrashDemangleFilterTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>

@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-  name: "KSCrash",
+  name: "TTSDKCrash",
   platforms: [
     .iOS(.v12),
     .tvOS(.v12),
@@ -253,17 +253,17 @@ let package = Package(
 )
 
 enum Targets {
-  static let recording = "KSCrashRecording"
-  static let filters = "KSCrashFilters"
-  static let sinks = "KSCrashSinks"
-  static let installations = "KSCrashInstallations"
-  static let recordingCore = "KSCrashRecordingCore"
-  static let reportingCore = "KSCrashReportingCore"
-  static let core = "KSCrashCore"
-  static let discSpaceMonitor = "KSCrashDiscSpaceMonitor"
-  static let bootTimeMonitor = "KSCrashBootTimeMonitor"
-  static let demangleFilter = "KSCrashDemangleFilter"
-  static let testTools = "KSCrashTestTools"
+  static let recording = "TTSDKCrashRecording"
+  static let filters = "TTSDKCrashFilters"
+  static let sinks = "TTSDKCrashSinks"
+  static let installations = "TTSDKCrashInstallations"
+  static let recordingCore = "TTSDKCrashRecordingCore"
+  static let reportingCore = "TTSDKCrashReportingCore"
+  static let core = "TTSDKCrashCore"
+  static let discSpaceMonitor = "TTSDKCrashDiscSpaceMonitor"
+  static let bootTimeMonitor = "TTSDKCrashBootTimeMonitor"
+  static let demangleFilter = "TTSDKCrashDemangleFilter"
+  static let testTools = "TTSDKCrashTestTools"
 }
 
 extension String {
